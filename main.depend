@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1652362524 source:e:\super folder\po-programowanie obiektowe\class\projekt 12.05.2022\main\main.cpp
+	<iostream>
+	<Board.h>
+
+1652363398 e:\super folder\po-programowanie obiektowe\class\projekt 12.05.2022\main\include\board.h
+
+1652363600 source:e:\super folder\po-programowanie obiektowe\class\projekt 12.05.2022\main\src\board.cpp
+	"Board.h"
+	<iostream>
+
+1652385674 source:f:\super folder\po-programowanie obiektowe\class\projekt 12.05.2022\main\main.cpp
+	<iostream>
+	"Board2.h"
+
+1652363600 source:f:\super folder\po-programowanie obiektowe\class\projekt 12.05.2022\main\src\board.cpp
+	"Board.h"
+	<iostream>
+
+1652364272 f:\super folder\po-programowanie obiektowe\class\projekt 12.05.2022\main\include\board.h
+
+1652385542 f:\super folder\po-programowanie obiektowe\class\projekt 12.05.2022\main\include\board2.h
+
+1652385650 source:f:\super folder\po-programowanie obiektowe\class\projekt 12.05.2022\main\src\board2.cpp
+	"Board2.h"
+	<iostream>
+
